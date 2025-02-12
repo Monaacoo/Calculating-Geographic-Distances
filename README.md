@@ -32,6 +32,9 @@ O cálculo resultará na distância entre essas coordenadas.
 A fórmula utilizada para calcular a distância considera o formato esférico da Terra:
 
 
+![image](https://github.com/user-attachments/assets/03da091a-abcd-4ed5-862c-7747e171ee32)
+
+
   d = 2 \cdot R \cdot \arcsin \left( \sqrt{\sin^2\left(\frac{\Delta \varphi}{2}\right) + \cos(\varphi_1) \cdot \cos(\varphi_2) \cdot \sin^2\left(\frac{\Delta \lambda}{2}\right)} \right)
 
 

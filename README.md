@@ -31,9 +31,9 @@ O cálculo resultará na distância entre essas coordenadas.
 
 A fórmula utilizada para calcular a distância considera o formato esférico da Terra:
 
-\[
+
   d = 2 \cdot R \cdot \arcsin \left( \sqrt{\sin^2\left(\frac{\Delta \varphi}{2}\right) + \cos(\varphi_1) \cdot \cos(\varphi_2) \cdot \sin^2\left(\frac{\Delta \lambda}{2}\right)} \right)
-\]
+
 
 Onde:
 - **R** = 6.371 km (raio da Terra)
